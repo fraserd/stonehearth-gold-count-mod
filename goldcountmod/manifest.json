@@ -1,0 +1,21 @@
+{
+    "info": {
+        "name": "goldcountmod",
+        "author": "illdred <illdred@gmail.com>",
+        "website": "https://github.com/fraserd/stonehearth-gold-count-mod",
+        "version": 3
+    },
+    "mixintos": {},
+    "overrides": {},
+    "ui": {
+        "html": [
+            "file(ui/game/gold_count_display/gold_count_display.html)"
+        ],
+        "js": [
+            "file(ui/game/gold_count_display/gold_count_display.js)"
+        ],
+        "less": [
+            "file(ui/game/gold_count_display/gold_count_display.less)"
+        ]
+    }
+}
